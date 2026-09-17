@@ -1,9 +1,3 @@
-libmnl (1.0.5-3) unstable; urgency=medium
-
-  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
-
- -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 16:24:08 +0800
-
 libmnl (1.0.5-2) unstable; urgency=medium
 
   * Re-upload with source only, to unblock the migration policy
